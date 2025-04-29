@@ -33,3 +33,7 @@ document.addEventListener('DOMContentLoaded', function(){
     })
 });
 
+ScrollReveal().Reveal('#inicio',{delay:500});
+ScrollReveal().Reveal('#galeria',{delay:500});
+ScrollReveal().Reveal('#tropicalia',{delay:500});
+ScrollReveal().Reveal('#contato',{delay:500});
